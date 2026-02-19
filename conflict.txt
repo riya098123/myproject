@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Change from branch2
+=======
 Change from branch1
+>>>>>>> 9f82d5c883942432e3c46720699ac21aae7019c0
